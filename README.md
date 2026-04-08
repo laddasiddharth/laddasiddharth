@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode,vercel,netlify&perline=8" />
 </p>
 
 ---
@@ -40,10 +40,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laddasiddharth&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=laddasiddharth&theme=tokyonight&hide_border=true" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=laddasiddharth&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
