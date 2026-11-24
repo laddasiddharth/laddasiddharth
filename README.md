@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://siddharthladda.me"><img src="https://img.shields.io/badge/Portfolio-siddharthladda.me-000000?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/siddharth-ladda"><img src="https://img.shields.io/badge/LinkedIn-siddharth--ladda-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:siddharthladda@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
